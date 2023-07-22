@@ -1,2 +1,4 @@
 # Temperature-Sensor
-Used an Arduino board to create a temperature sensor 
+This repository contains the code and schematics for a DIY digital thermometer built using an Arduino microcontroller and a 7-bit digital temperature sensor. The project involves connecting the Arduino to the 7-bit digital temperature sensor and displaying the temperature readings on a 7-bit screen.
+
+The PowerPoint presentation for the Arduino Thermometer with the 7-Bit Digital Screen provides a comprehensive overview of the project, showcasing the creation process and functionality of the DIY digital thermometer. The presentation covers the logistics behind the code and wiring, explaining in detail how the Arduino communicates with the 7-bit digital screen to display real-time temperature readings. Visual aids, including circuit diagrams and images, illustrate the hardware components and wiring setup. It also includes the Arduino and Python code, detailing the logic behind the temperature reading and display process. 
