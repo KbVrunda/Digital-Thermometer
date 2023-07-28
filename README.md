@@ -1,7 +1,5 @@
 # Digital Thermometer
 
-![Project Image](link-to-your-project-image.png) <!-- Add an image of your project if you have one -->
-
 This project is an Arduino-based digital thermometer that utilizes a DHT11 sensor and a 4-digit seven segment display to visualize the temperature readings. The entire project is implemented in Python, and the Seven Sea Library is used to interface with the hardware components.
 
 ## Table of Contents
